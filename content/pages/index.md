@@ -172,7 +172,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Third Item Title
+        title: 'AI, Chatbot and Machine Learning'
         text: >+
           ### Partner with us to harness the power of AI chatbots and machine
           learning, and unlock new opportunities for efficiency, productivity,
