@@ -67,7 +67,7 @@ sections:
             label: Read More
             url: 'https://www.abhiwan.com/metaverse-development'
   - type: CardsSection
-    title: Cards Section Title
+    title: ''
     subtitle: The section subtitle
     items:
       - type: Card
