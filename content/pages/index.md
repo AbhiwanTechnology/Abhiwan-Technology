@@ -167,7 +167,7 @@ sections:
         actions:
           - type: Button
             label: Learn more
-            url: /
+            url: 'https://www.abhiwan.com/resource-augmentation'
             size: medium
             variant: text
             color: primary
