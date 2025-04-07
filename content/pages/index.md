@@ -144,7 +144,7 @@ sections:
 
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/6 march play to earn games.jpg
           altText: First item image
         actions:
           - type: Button
