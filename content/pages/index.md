@@ -71,7 +71,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: First Item Title
+        title: Blockchain Dvelopment
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
