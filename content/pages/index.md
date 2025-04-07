@@ -54,7 +54,7 @@ sections:
         title: Metaverse Development
         image:
           type: Image
-          url: /images/4 march 3d games.jpg
+          url: /images/6 feb vr.jpg
           altText: Third item image
         text: >+
           ### Our Metaverse application development service delivers immersive
