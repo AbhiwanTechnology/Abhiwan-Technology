@@ -65,7 +65,7 @@ sections:
         actions:
           - type: Button
             label: Read More
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://www.abhiwan.com/metaverse-development'
   - type: CardsSection
     title: Cards Section Title
     subtitle: The section subtitle
