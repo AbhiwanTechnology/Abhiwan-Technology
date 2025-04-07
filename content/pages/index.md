@@ -41,10 +41,11 @@ sections:
           type: Image
           url: /images/mui-5.svg
           altText: Second item image
-        text: >
-          We excels as a leading game art outsourcing firm, renowned for
+        text: >+
+          ### We excels as a leading game art outsourcing firm, renowned for
           crafting top-tier game art in diverse styles. Our carefully curated
           team of artists is distinguished by their vast
+
         actions:
           - type: Button
             label: Read the Docs
