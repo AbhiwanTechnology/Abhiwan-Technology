@@ -6,12 +6,8 @@ sections:
     title: "Immersive\_ solutions like never before"
     subtitle: ''
     text: >+
-      ## Transform your ideas into groundbreaking experiences across the best
-      metaverse, AI, game development & more!
-
-
-
-
+      ###### Transform your ideas into groundbreaking experiences across the
+      best metaverse, AI, game development & more!
 
     actions:
       - type: Button
