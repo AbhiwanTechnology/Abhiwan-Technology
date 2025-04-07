@@ -105,7 +105,7 @@ sections:
         actions:
           - type: Button
             label: Readmore
-            url: /
+            url: 'https://www.abhiwan.com/real-estate-metaverse-service'
             size: medium
             variant: text
             color: primary
