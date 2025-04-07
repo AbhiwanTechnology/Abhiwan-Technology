@@ -180,7 +180,7 @@ sections:
 
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/21 feb smart contract.jpg
           altText: Third item image
         actions:
           - type: Button
