@@ -80,7 +80,7 @@ sections:
 
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/20 feb blockchain.jpg
           altText: First item image
         actions:
           - type: Button
