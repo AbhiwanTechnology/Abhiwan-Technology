@@ -135,10 +135,13 @@ sections:
     items:
       - type: Card
         title: Interactive Services
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          ### *Experience our AR, VR, and Machine Learning services redefining
+          interaction. Dive into immersive enhancements and intelligent
+          solutions, transcending the ordinary with limitless innovation.*
+
+
+
         image:
           type: Image
           url: /images/nextjs.svg
