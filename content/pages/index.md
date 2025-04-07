@@ -111,10 +111,13 @@ sections:
             color: primary
       - type: Card
         title: Website And App Development Services
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          ### As a leading website dev company, Abhiwan Technology delivers
+          high-quality, user-friendly websites and apps that drive engagement
+          and growth. Our web application development services ensure seamless,
+          secure, and scalable digital solutions, helping businesses succeed in
+          the online marketplace.​
+
         image:
           type: Image
           url: /images/ts.svg
