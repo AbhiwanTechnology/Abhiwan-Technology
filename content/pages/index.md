@@ -193,7 +193,7 @@ sections:
             variant: text
             color: primary
   - type: CardsSection
-    title: Cards Section Title
+    title: Contact Us
     subtitle: The section subtitle
     items:
       - type: Card
