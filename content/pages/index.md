@@ -120,7 +120,7 @@ sections:
 
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/augmented reality.jpg
           altText: Third item image
         actions:
           - type: Button
