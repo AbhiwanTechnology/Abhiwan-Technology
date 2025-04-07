@@ -173,10 +173,11 @@ sections:
             color: primary
       - type: Card
         title: Third Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          ### Partner with us to harness the power of AI chatbots and machine
+          learning, and unlock new opportunities for efficiency, productivity,
+          and innovation in your organization.
+
         image:
           type: Image
           url: /images/ts.svg
