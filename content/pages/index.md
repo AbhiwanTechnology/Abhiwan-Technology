@@ -21,7 +21,7 @@ sections:
       url: /images/29 january vr.jpg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Services
     subtitle: Section subtitle here
     items:
       - type: Card
