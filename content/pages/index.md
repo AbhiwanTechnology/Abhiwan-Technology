@@ -33,7 +33,7 @@ sections:
         text: "### *Abhiwan Technology is a top game development company in India, blending creativity with technology to create engaging games. Our expert team uses the latest tools to build immersive worlds that players love. Among leading game development companies, we have a strong track record of turning game ideas into reality.*\_\n\n\n\n"
         actions:
           - type: Button
-            label: Read the Docs
+            label: Read More
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Game Art Services
