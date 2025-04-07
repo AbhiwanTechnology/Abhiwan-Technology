@@ -91,10 +91,13 @@ sections:
             color: primary
       - type: Card
         title: Real Estate Metaverse
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          ### As a metaverse real estate development company, Abhiwan Technology
+          pioneers the creation of digital properties, offering innovative
+          solutions for businesses and investors. Whether you're looking to buy,
+          sell, or develop virtual land, our expertise as a metaverse real
+          estate company ensures seamless integration of technology.
+
         image:
           type: Image
           url: /images/mui-5.svg
