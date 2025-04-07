@@ -110,7 +110,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Third Item Title
+        title: Website And App Development Services
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
