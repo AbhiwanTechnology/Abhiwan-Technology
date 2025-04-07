@@ -28,7 +28,7 @@ sections:
         title: Game Development
         image:
           type: Image
-          url: /images/10 march 2d game.jpg
+          url: /images/11 Feb 2d game.jpg
           altText: First item image
         text: "### *Abhiwan Technology is a top game development company in India, blending creativity with technology to create engaging games. Our expert team uses the latest tools to build immersive worlds that players love. Among leading game development companies, we have a strong track record of turning game ideas into reality.*\_\n\n\n\n"
         actions:
