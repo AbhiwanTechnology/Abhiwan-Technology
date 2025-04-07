@@ -162,7 +162,7 @@ sections:
 
         image:
           type: Image
-          url: /images/Game development Company in UAE for Education.jpg
+          url: /images/8 jan.jpg
           altText: Second item image
         actions:
           - type: Button
