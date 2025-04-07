@@ -56,11 +56,12 @@ sections:
           type: Image
           url: /images/ts.svg
           altText: Third item image
-        text: >
-          Our Metaverse application development service delivers immersive
+        text: >+
+          ### Our Metaverse application development service delivers immersive
           digital experiences, seamlessly blending virtual and physical worlds.
           As a leading Metaverse development company, we empower users to
           explore, create, and connect like never before.
+
         actions:
           - type: Button
             label: Read the Docs
