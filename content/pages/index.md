@@ -225,11 +225,5 @@ sections:
         image:
           type: Image
           altText: Third item image
-        actions:
-          - type: Button
-            label: ''
-            url: ''
-            size: medium
-            variant: text
-            color: primary
+        actions: []
 ---
