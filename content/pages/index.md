@@ -162,7 +162,7 @@ sections:
 
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/Game development Company in UAE for Education.jpg
           altText: Second item image
         actions:
           - type: Button
