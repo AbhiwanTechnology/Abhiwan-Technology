@@ -5,10 +5,14 @@ sections:
   - type: HeroSection
     title: "Immersive\_ solutions like never before"
     subtitle: ''
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: >+
+      ## Transform your ideas into groundbreaking experiences across the best
+      metaverse, AI, game development & more!
+
+
+
+
+
     actions:
       - type: Button
         label: Start Building
