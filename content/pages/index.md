@@ -48,7 +48,7 @@ sections:
 
         actions:
           - type: Button
-            label: Read the Docs
+            label: Read More
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Metaverse Development
