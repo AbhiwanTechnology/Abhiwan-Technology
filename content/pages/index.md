@@ -39,7 +39,7 @@ sections:
         title: Game Art Services
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/10 march 2d game.jpg
           altText: Second item image
         text: >+
           ### We excels as a leading game art outsourcing firm, renowned for
