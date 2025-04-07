@@ -162,7 +162,7 @@ sections:
 
         image:
           type: Image
-          url: /images/8 jan.jpg
+          url: /images/8 feb game.jpg
           altText: Second item image
         actions:
           - type: Button
