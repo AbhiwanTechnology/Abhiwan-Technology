@@ -57,10 +57,10 @@ sections:
           url: /images/ts.svg
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Our Metaverse application development service delivers immersive
+          digital experiences, seamlessly blending virtual and physical worlds.
+          As a leading Metaverse development company, we empower users to
+          explore, create, and connect like never before.
         actions:
           - type: Button
             label: Read the Docs
