@@ -155,10 +155,11 @@ sections:
             color: primary
       - type: Card
         title: Resource Augmentation
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          ### Abhiwan Technology offers experts in programming, art, and UI/UX,
+          available as a complete team or individual members for seamless
+          integration into existing teams.
+
         image:
           type: Image
           url: /images/mui-5.svg
