@@ -148,7 +148,7 @@ sections:
           altText: First item image
         actions:
           - type: Button
-            label: Learn more
+            label: Know more
             url: /
             size: medium
             variant: text
