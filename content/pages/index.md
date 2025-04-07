@@ -100,7 +100,7 @@ sections:
 
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/12 Feb Blockchain.jpg
           altText: Second item image
         actions:
           - type: Button
