@@ -185,7 +185,10 @@ sections:
         actions:
           - type: Button
             label: Learn more
-            url: /
+            url: >-
+              Partner with us to harness the power of AI chatbots and machine
+              learning, and unlock new opportunities for efficiency,
+              productivity, and innovation in your organization. 
             size: medium
             variant: text
             color: primary
