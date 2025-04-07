@@ -30,11 +30,7 @@ sections:
           type: Image
           url: /images/nextjs.svg
           altText: First item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: "### *Abhiwan Technology is a top game development company in India, blending creativity with technology to create engaging games. Our expert team uses the latest tools to build immersive worlds that players love. Among leading game development companies, we have a strong track record of turning game ideas into reality.*\_\n\n\n\n"
         actions:
           - type: Button
             label: Read the Docs
