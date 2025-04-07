@@ -25,7 +25,7 @@
         ]
     },
     "footer": {
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/).",
+        "copyrightText": "### Powered by Abhiwan Technology\n\n",
         "navLinks": [
             {
                 "type": "Link",
