@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: "Immersive\_ solutions like never before"
+    title: "Immersive\_ Solutions like Never Before"
     subtitle: ''
     text: >+
       ### Transform your ideas into groundbreaking experiences across the best
