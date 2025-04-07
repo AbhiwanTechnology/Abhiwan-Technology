@@ -215,13 +215,7 @@ sections:
         image:
           type: Image
           altText: Second item image
-        actions:
-          - type: Button
-            label: ''
-            url: ''
-            size: medium
-            variant: text
-            color: primary
+        actions: []
       - type: Card
         title: Third Item Title
         text: >-
