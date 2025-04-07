@@ -166,7 +166,7 @@ sections:
           altText: Second item image
         actions:
           - type: Button
-            label: Learn more
+            label: Read more
             url: 'https://www.abhiwan.com/resource-augmentation'
             size: medium
             variant: text
