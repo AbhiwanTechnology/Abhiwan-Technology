@@ -49,7 +49,7 @@ sections:
         actions:
           - type: Button
             label: Read More
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://www.abhiwan.com/game-art-services'
       - type: Card
         title: Metaverse Development
         image:
