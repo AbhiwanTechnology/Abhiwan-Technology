@@ -72,10 +72,12 @@ sections:
     items:
       - type: Card
         title: Blockchain Dvelopment
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          ### Abhiwan Technology is a blockchain development company that helps
+          businesses use this powerful technology. We create secure apps, smart
+          contracts, and blockchain solutions to make transactions faster and
+          safer. Let’s build the future together!
+
         image:
           type: Image
           url: /images/nextjs.svg
