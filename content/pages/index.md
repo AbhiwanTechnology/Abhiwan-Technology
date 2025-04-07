@@ -18,7 +18,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/29 january vr.jpg
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
