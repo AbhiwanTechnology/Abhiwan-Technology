@@ -11,7 +11,7 @@ sections:
 
     actions:
       - type: Button
-        label: Read the Docs
+        label: Contact Us
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
         variant: outlined
