@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: Contact Us
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: 'https://www.abhiwan.com/contactus'
         size: large
         variant: outlined
         color: primary
