@@ -34,7 +34,7 @@ sections:
         actions:
           - type: Button
             label: Read More
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://www.abhiwan.com/game-development'
       - type: Card
         title: Game Art Services
         image:
