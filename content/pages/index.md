@@ -211,7 +211,7 @@ sections:
           altText: Second item image
         actions: []
       - type: Card
-        title: Third Item Title
+        title: 'The Iconic Corenthum Tower,Noida, Sector-62'
         text: ''
         image:
           type: Image
