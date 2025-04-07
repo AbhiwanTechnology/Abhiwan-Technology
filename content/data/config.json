@@ -35,7 +35,7 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Services",
                 "underline": "hover",
                 "url": "https://www.abhiwan.com/services"
             },
