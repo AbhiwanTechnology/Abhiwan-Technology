@@ -218,7 +218,7 @@ sections:
         actions:
           - type: Button
             label: Learn more
-            url: /
+            url: ''
             size: medium
             variant: text
             color: primary
