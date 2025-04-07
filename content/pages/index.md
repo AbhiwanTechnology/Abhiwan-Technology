@@ -149,7 +149,7 @@ sections:
         actions:
           - type: Button
             label: Know more
-            url: /
+            url: 'https://www.abhiwan.com/interactive-services'
             size: medium
             variant: text
             color: primary
