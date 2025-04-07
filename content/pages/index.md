@@ -85,7 +85,7 @@ sections:
         actions:
           - type: Button
             label: Read more
-            url: /
+            url: 'https://www.abhiwan.com/blockchain-development'
             size: medium
             variant: text
             color: primary
