@@ -184,7 +184,7 @@ sections:
           altText: Third item image
         actions:
           - type: Button
-            label: Learn more
+            label: Read more
             url: >-
               Partner with us to harness the power of AI chatbots and machine
               learning, and unlock new opportunities for efficiency,
