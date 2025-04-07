@@ -13,7 +13,7 @@
             {
                 "type": "Link",
                 "label": "Services",
-                "url": "/about",
+                "url": "https://www.abhiwan.com/services",
                 "underline": "hover"
             },
             {
