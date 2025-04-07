@@ -204,7 +204,7 @@ sections:
           altText: First item image
         actions: []
       - type: Card
-        title: ''
+        title: Sales@abhiwan.com
         text: ''
         image:
           type: Image
